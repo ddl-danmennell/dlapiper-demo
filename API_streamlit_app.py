@@ -38,7 +38,7 @@ if clear_button:
     ]
 
 # Header Image - You can change this to suit your application
-st.image("images/dla.png")
+st.image("images/dla2.png")
 # container for chat history
 response_container = st.container()
 # container for text box
